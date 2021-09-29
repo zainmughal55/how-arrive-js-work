@@ -1,0 +1,10 @@
+{
+  "name": "mvafpv--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "arrive": "^2.4.1",
+    "jquery": "^3.5.1",
+    "rxjs": "6.5.5"
+  }
+}
